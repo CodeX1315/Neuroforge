@@ -1,0 +1,22 @@
+import { createContext, useContext, useEffect, useState } from 'react'
+
+const PageTitleContext = createContext(null)
+
+export function PageTitleProvider({ children }) {
+  const [title, setTitle] = useState('Dashboard')
+  return <PageTitleContext.Provider value={{ title, setTitle }}>{children}</PageTitleContext.Provider>
+}
+
+export function usePageTitleContext() {
+  const ctx = useContext(PageTitleContext)
+  if (!ctx) throw new Error('usePageTitleContext must be used within PageTitleProvider')
+  return ctx
+}
+
+// Call from any page: usePageTitle('Projects')
+export function usePageTitle(title) {
+  const { setTitle } = usePageTitleContext()
+  useEffect(() => {
+    setTitle(title)
+  }, [title, setTitle])
+}

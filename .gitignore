@@ -1,0 +1,36 @@
+# =========================
+# Backend - Spring Boot
+# =========================
+neuroforge-backend/target/
+neuroforge-backend/.idea/
+neuroforge-backend/*.iml
+
+# Backend environment variables
+neuroforge-backend/.env
+neuroforge-backend/.env.*
+!neuroforge-backend/.env.example
+
+# =========================
+# Frontend - React/Vite
+# =========================
+frontend/node_modules/
+frontend/dist/
+frontend/.idea/
+frontend/*.iml
+
+# Frontend environment variables
+frontend/.env
+frontend/.env.*
+!frontend/.env.example
+
+# =========================
+# IntelliJ
+# =========================
+.idea/
+*.iml
+
+# =========================
+# OS
+# =========================
+.DS_Store
+Thumbs.db
