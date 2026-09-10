@@ -114,80 +114,80 @@ attached at the project level throughout.
 ## Authentication Module
 
 ### Create workspace and admin
-![Register Organization]<img width="1904" height="971" alt="Register_Organization" src="https://github.com/user-attachments/assets/a2e469a4-0053-4f7f-9699-3b69d53cfbbb" />
+<img width="1904" height="971" alt="Register_Organization" src="https://github.com/user-attachments/assets/a2e469a4-0053-4f7f-9699-3b69d53cfbbb" />
 ### Register new user using INVITE CODE
-![Register new user using INVITE_CODE]<img width="1905" height="973" alt="Register_New_User" src="https://github.com/user-attachments/assets/a3feb413-a91e-4dd6-afc4-6e4c8d294f34" />
+<img width="1905" height="973" alt="Register_New_User" src="https://github.com/user-attachments/assets/a3feb413-a91e-4dd6-afc4-6e4c8d294f34" />
 ### Login user
-![Login user]<img width="1905" height="973" alt="Login_user" src="https://github.com/user-attachments/assets/2f82bb92-533c-42b5-b1af-b2d616a330e7" />
+<img width="1905" height="973" alt="Login_user" src="https://github.com/user-attachments/assets/2f82bb92-533c-42b5-b1af-b2d616a330e7" />
 
 ## User Profile for every user
-![User profile]<img width="1907" height="973" alt="User_Profile" src="https://github.com/user-attachments/assets/3476d9df-e9c9-49ec-b355-c55c916e7ce1" />
+<img width="1907" height="973" alt="User_Profile" src="https://github.com/user-attachments/assets/3476d9df-e9c9-49ec-b355-c55c916e7ce1" />
 
 ## Project, Sprint, Task, Document, Repository Module
 
 ### Project Manager Dashboard
-![PM Dashboard]<img width="1907" height="969" alt="PM_Dashboard" src="https://github.com/user-attachments/assets/d0562a68-fb62-4c67-bac4-4bc77af80d66" />
+<img width="1907" height="969" alt="PM_Dashboard" src="https://github.com/user-attachments/assets/d0562a68-fb62-4c67-bac4-4bc77af80d66" />
 ### Project Manager Dashboard Light Theme
-![PM dashboard light theme]<img width="1906" height="970" alt="PM_Dashboard_LightTheme" src="https://github.com/user-attachments/assets/aaba9afd-8f37-4bf9-8cbf-4144c63674fa" />
+<img width="1906" height="970" alt="PM_Dashboard_LightTheme" src="https://github.com/user-attachments/assets/aaba9afd-8f37-4bf9-8cbf-4144c63674fa" />
 ### Create project
-![create project]<img width="1909" height="971" alt="PM_CreateTask" src="https://github.com/user-attachments/assets/d8167ea9-94f3-4081-bea5-151427c98262" />
+<img width="1909" height="971" alt="PM_CreateTask" src="https://github.com/user-attachments/assets/d8167ea9-94f3-4081-bea5-151427c98262" />
 ### Project overview
-![PM project overview]<img width="1909" height="971" alt="PM_project_overview" src="https://github.com/user-attachments/assets/44a98761-713d-4a70-8c05-91053ee35372" />
+<img width="1909" height="971" alt="PM_project_overview" src="https://github.com/user-attachments/assets/44a98761-713d-4a70-8c05-91053ee35372" />
 ### Sprint and task
-![PM sprint & task]<img width="1906" height="973" alt="PM_Sprint Task" src="https://github.com/user-attachments/assets/906373a7-43ca-4926-b0dd-bfc0e0c157a0" />
+<img width="1906" height="973" alt="PM_Sprint Task" src="https://github.com/user-attachments/assets/906373a7-43ca-4926-b0dd-bfc0e0c157a0" />
 ### project section
-![PM project section]<img width="1905" height="973" alt="PM_Project_Section" src="https://github.com/user-attachments/assets/5df97dc7-830b-425f-924b-947593bb2f15" />
+<img width="1905" height="973" alt="PM_Project_Section" src="https://github.com/user-attachments/assets/5df97dc7-830b-425f-924b-947593bb2f15" />
 ### Repository
-![PM repo]<img width="1906" height="973" alt="PM_Repo" src="https://github.com/user-attachments/assets/61f7f3c1-3a2d-4e65-b6e0-846d33831ef9" />
+<img width="1906" height="973" alt="PM_Repo" src="https://github.com/user-attachments/assets/61f7f3c1-3a2d-4e65-b6e0-846d33831ef9" />
 ### Release and Deployment
-![PM Release and Deployments]<img width="1909" height="973" alt="PM_Release Deployments" src="https://github.com/user-attachments/assets/afe11174-d4bc-42bc-9bef-6bab92d09535" />
+<img width="1909" height="973" alt="PM_Release Deployments" src="https://github.com/user-attachments/assets/afe11174-d4bc-42bc-9bef-6bab92d09535" />
 
 ## Requirement Module
 
 ### Business Analyst Dashboard
-![BA Dashboard]<img width="1905" height="971" alt="BA_Dashboard" src="https://github.com/user-attachments/assets/434a249a-5cb1-45e3-8022-71936470d0d2" />
+<img width="1905" height="971" alt="BA_Dashboard" src="https://github.com/user-attachments/assets/434a249a-5cb1-45e3-8022-71936470d0d2" />
 ### Requirements
-![BA req]<img width="1909" height="971" alt="BA_Req" src="https://github.com/user-attachments/assets/c5074ca6-028a-4f1c-9049-31f5eb48d749" />
+<img width="1909" height="971" alt="BA_Req" src="https://github.com/user-attachments/assets/c5074ca6-028a-4f1c-9049-31f5eb48d749" />
 ### Create Requirement
-![create requirement]<img width="1906" height="973" alt="BA_CreateReq" src="https://github.com/user-attachments/assets/907658fb-011d-4733-9fd1-13ac3de662e2" />
+<img width="1906" height="973" alt="BA_CreateReq" src="https://github.com/user-attachments/assets/907658fb-011d-4733-9fd1-13ac3de662e2" />
 
 ## Task Module
 
 ### Developer Dashboard
-![Developer dahboard]<img width="1907" height="970" alt="Dev_Dashboard" src="https://github.com/user-attachments/assets/1dc398de-4186-4e17-8728-5e5000ab9316" />
+<img width="1907" height="970" alt="Dev_Dashboard" src="https://github.com/user-attachments/assets/1dc398de-4186-4e17-8728-5e5000ab9316" />
 ### Developer View Task 
-![Developer task]<img width="1905" height="973" alt="Dev_ViewTask" src="https://github.com/user-attachments/assets/e0ff63b0-c1a6-4d87-9320-008fabe86f5b" />
+<img width="1905" height="973" alt="Dev_ViewTask" src="https://github.com/user-attachments/assets/e0ff63b0-c1a6-4d87-9320-008fabe86f5b" />
 
 ## Test Case Module
 
 ### QA Dashboard
-![QA Dashboard]<img width="1907" height="971" alt="QA_Dashboard" src="https://github.com/user-attachments/assets/f99cbc76-be69-4ffe-b9c1-ef2af608c0a4" />
+<img width="1907" height="971" alt="QA_Dashboard" src="https://github.com/user-attachments/assets/f99cbc76-be69-4ffe-b9c1-ef2af608c0a4" />
 ### QA Create test case from tasks
-![QA create test case]<img width="1909" height="974" alt="QA_CreateTestCase" src="https://github.com/user-attachments/assets/9c3016dc-8058-49a7-a08d-f8f7ae9627e4" />
+<img width="1909" height="974" alt="QA_CreateTestCase" src="https://github.com/user-attachments/assets/9c3016dc-8058-49a7-a08d-f8f7ae9627e4" />
 ### QA test Case
-![QA Test Case]<img width="1903" height="971" alt="QA_TestCase" src="https://github.com/user-attachments/assets/bffed579-ff48-4b73-9922-e942bc35b551" />
+<img width="1903" height="971" alt="QA_TestCase" src="https://github.com/user-attachments/assets/bffed579-ff48-4b73-9922-e942bc35b551" />
 
 ## Deployment Module
 
 ### DEVOPS Dashboard
-![DevOps Dashboard]<img width="1909" height="973" alt="DevOps_Dashboard" src="https://github.com/user-attachments/assets/0c1e9573-9ea3-4b29-9706-f184631d08c4" />
+<img width="1909" height="973" alt="DevOps_Dashboard" src="https://github.com/user-attachments/assets/0c1e9573-9ea3-4b29-9706-f184631d08c4" />
 ### DEVOPS Releases
-![DevOps Releases]<img width="1907" height="973" alt="DevOps_Release" src="https://github.com/user-attachments/assets/d90891e0-3510-47d2-818a-74e95356c021" />
+<img width="1907" height="973" alt="DevOps_Release" src="https://github.com/user-attachments/assets/d90891e0-3510-47d2-818a-74e95356c021" />
 
 ## Admin 
 
 ### Admin Dashboard
-![Admin Dashboard]<img width="1906" height="973" alt="ADMIN_Dashboard1" src="https://github.com/user-attachments/assets/5b7d4ead-289c-4817-aba1-7a06daae7d66" />
+<img width="1906" height="973" alt="ADMIN_Dashboard1" src="https://github.com/user-attachments/assets/5b7d4ead-289c-4817-aba1-7a06daae7d66" />
 ### Team and Updating role
-![Team role]<img width="1910" height="971" alt="ADMIN_TeamRoles" src="https://github.com/user-attachments/assets/46c39bc4-13b5-4f6f-8bd2-91e0b1f69924" />
+<img width="1910" height="971" alt="ADMIN_TeamRoles" src="https://github.com/user-attachments/assets/46c39bc4-13b5-4f6f-8bd2-91e0b1f69924" />
 ### All Projects
-![All projects]<img width="1906" height="974" alt="ADMIN_AllProject" src="https://github.com/user-attachments/assets/182b00a4-f2bd-4e8d-8dc6-5c423dc4e8f2" />
+<img width="1906" height="974" alt="ADMIN_AllProject" src="https://github.com/user-attachments/assets/182b00a4-f2bd-4e8d-8dc6-5c423dc4e8f2" />
 ### All Requirements
-![All requirements]<img width="1906" height="973" alt="ADMIN_req" src="https://github.com/user-attachments/assets/7dcf4521-3929-4fba-82a6-a1f19c9a7282" />
+<img width="1906" height="973" alt="ADMIN_req" src="https://github.com/user-attachments/assets/7dcf4521-3929-4fba-82a6-a1f19c9a7282" />
 ### All Sprints
-![All sprints]<img width="1905" height="973" alt="ADMIN_sprint" src="https://github.com/user-attachments/assets/9d728e36-148a-48c5-986c-8452ce6a58a6" />
+<img width="1905" height="973" alt="ADMIN_sprint" src="https://github.com/user-attachments/assets/9d728e36-148a-48c5-986c-8452ce6a58a6" />
 ### All Tasks
-![All tasks]<img width="1907" height="970" alt="ADMIN_task" src="https://github.com/user-attachments/assets/29cca5a5-d110-43ad-9776-68c38d5bd602" />
+<img width="1907" height="970" alt="ADMIN_task" src="https://github.com/user-attachments/assets/29cca5a5-d110-43ad-9776-68c38d5bd602" />
 
 
 ## Getting started
